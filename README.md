@@ -7,4 +7,4 @@ This script currently can work with AMBER, GENESIS, GROMACS, LAMMPS, NAMD, OpenM
 # Prerequisites
 * A working simulation packages: AMBER, GENESIS, GROMACS, LAMMPS, NAMD, OpenMM
 * Standard python library.
-* Numpy, Numba, multiprocessing, pyMPI. 
+* Numpy, Numba, multiprocessing, mpi4py, pycuda. 
