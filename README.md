@@ -5,6 +5,6 @@ The script help to distribute the simulations in the most effective ways on mult
 This script currently can work with AMBER, GENESIS, GROMACS, LAMMPS, NAMD, OpenMM
 
 # Prerequisites
-* A working simulation packages: AMBER, GENESIS, GROMACS, LAMMPS, NAMD, OpenMM
+* A working simulation package among: AMBER, GENESIS, GROMACS, LAMMPS, NAMD, OpenMM
 * Standard python library.
 * Numpy, Numba, multiprocessing, mpi4py, pycuda. 
